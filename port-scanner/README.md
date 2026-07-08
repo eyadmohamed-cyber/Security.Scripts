@@ -19,6 +19,7 @@ python3 portscanner.py
 ## Results Against Metasploitable 2 (192.168.56.101)
 
 ![Port Scanner Results](screenshot.png)
+
 **Port 21 — FTP** — vsftpd, known vulnerable version  
 **Port 22 — SSH** — Secure remote access  
 **Port 23 — Telnet** — Plaintext credentials, no encryption  
